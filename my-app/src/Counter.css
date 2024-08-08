@@ -1,0 +1,30 @@
+.row1{
+    flex-direction: 'column';
+    display: flex ;
+    width: 75%;
+    align-items: center;
+    text-align: justify;
+    border: 1px solid #E5E4E2;
+    background-color: #E5E4E2;
+    padding: 54px;
+}
+.contentSize{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.textFormat{
+    font-weight: 800;
+    font-size: 20px;
+}
+.inputWidth{
+    width: 24px;
+}
+.amountFormat{
+    font-size: 18px;
+    margin-left: 16px;
+}
+.columnalign{
+    flex-direction: 'row';
+    width: 58%;
+    background: #E5E4E2;
+}  
